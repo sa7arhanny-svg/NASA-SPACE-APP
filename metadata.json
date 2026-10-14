@@ -1,0 +1,6 @@
+{
+  "name": "DETs — Earth System Investigation Lab",
+  "description": "Forensic scientific investigation environment for Earth system anomalies, regional comparisons, evidence chains of custody, and verifiable verdicts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
